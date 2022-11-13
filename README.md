@@ -1,2 +1,2 @@
-# A20J-Div2.B_all.solutions_with_explanations
-A collection of ladder div2.b solution with explanation needed.
+# C2ladder_solutions
+A collection of ladder solution of various ratings with a perfect explanations on the code.
